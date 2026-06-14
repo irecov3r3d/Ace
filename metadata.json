@@ -1,0 +1,6 @@
+{
+  "name": "ACE Artifact Engine",
+  "description": "Autonomous Curriculum Engine (ACE) for generating structured learning artifacts including flashcards, quizzes, and Mermaid.js diagrams from spiritual-systems ontology nodes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
